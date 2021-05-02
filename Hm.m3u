@@ -1,0 +1,539 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="New Group",B-Tv
+http://103.205.133.19/hls/btv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",C Tv
+https://tempd.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Atn-Bangla
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Channel-I
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",E-Tv
+http://103.205.133.19/hls/ekushey.m3u8
+#EXTINF:0 tvg-id="ntv" group-title="New Group",N-Tv
+http://103.205.133.19/hls/ntv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",R-Tv
+http://103.205.133.19/hls/rtv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Bangla Vision
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Machranga-Tv
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Sa-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Deepto-Tv
+http://103.205.133.19/hls/deeptotv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Bangla-TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Ananda-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Bijoy-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Channel-9
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",My-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",My-Cinema
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Boishakhi-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Boishakhi-Plus
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Mohona-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Desh-Tv
+http://103.205.133.21/hls/deshtv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",G-Tv
+http://103.102.27.172:6464/Channel-1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Asian-Tv
+http://103.205.133.21/hls/asiantv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Nagorik-TV
+http://103.205.133.19/hls/nagorik.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Colors Bd Tv
+http://master.beeiptv.com:8081/master/colorsbdtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Progoti Tv
+http://tv.bdiptv.com:8081/live/progoti/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Nb Tv
+http://208.86.19.13:81/live/NYB/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Meem TV
+http://str24.l9574.com/meemtv/index.m3u8
+#EXTINF:0 tvg-id="BanglaTV.uk" group-title="New Group",Bangla Tv
+http://208.86.19.13:81/live/banglany2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Us Bangla
+http://208.86.19.13:81/live/usbangla.stream/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Bangla Tv Us
+http://str24.l9574.com/515.stream/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Alpona-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Cnn-Bangla
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cnnbangla.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Cnn-Bangla 2
+https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",21 Bangla Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Biswa-Bangla Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Can-Bangla Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Atn-Bangla Uk
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Alif-Tv
+http://128.199.212.160/alif/1080/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Rang-Tv
+https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/live-orgin/rangiptv.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Royal-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/royaltv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Movie-Bangla
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",JonmoBhumi-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Nokshi-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Nrb-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Nan-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",71-Bangla
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8?Live-TV™
+#EXTINF:0 tvg-id="ext" group-title="New Group",Joy-Jatra-Tv
+https://tempd.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/joyjatratv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Cumilla-Tv
+https://www.webtvbd.com/download/bdix/cumilla_24.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",channel-69
+https://iptv10.raytahost.com/lite/channel69_hi/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Gbangla Tv
+https://iptv10.raytahost.com/desh/gbangla/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Sristy-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/sristytv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Jara-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jaratv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Shopno-Tv
+http://talusafagroup.ddns.net:8080/shopno/shopnotv.m3u8?Live-TV™
+#EXTINF:0 tvg-id="Channel23.il" group-title="New Group",Channel 23
+http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?Live-TV™
+#EXTINF:0 tvg-id="ext" group-title="New Group",City-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/citytv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Digi-Tv
+http://103.205.133.44:1935/extban/chdigihd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Channel 19
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/666
+#EXTINF:0 tvg-id="ext" group-title="New Group",Dhaka-Tv
+http://103.108.140.164:1009/dhakatv/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Nandan-TV
+http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",N-Tv Uk
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjEgMToxMjo1NSBQTSZoYXNoX3ZhbHVlPWJZOHI2WjlVWjdtYmxZYTE0bWFxUnc9PSZ2YWxpZG1pbnV0ZXM9NDA=
+#EXTINF:0 tvg-id="ext" group-title="New Group",Sonali-Tv
+https://sonalitv-hls.telelivebd.com/sonalitv/sonalitv_manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Falguni-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/falgunitv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="KTV.de" group-title="New Group",K-Tv
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",K-Bangla
+https://iptv10.raytahost.com/stream/kbangla/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Funfest-Tv
+https://tempd.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/funfest.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Desh News
+https://iptv9.raytahost.com/stream/desh/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Songbad-Tv
+https://iptv6.raytahost.com/live/songbad/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Mukti-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/muktitv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",The Channel Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Millennium-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Deshe-Bideshe Tv
+https://db71.livebox.co.in/deshebideshehls/tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Pan-Vision-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDIxIDg6NTY6MTUgQU0maGFzaF92YWx1ZT1lU0RKcC92NTVMTlk3RGJUQVViclVnPT0mdmFsaWRtaW51dGVzPTQw
+#EXTINF:0 tvg-id="ext" group-title="New Group",Ab-Tv
+http://208.86.19.13:81/live/ABtv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Ion-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgOTo1NjowNyBBTSZoYXNoX3ZhbHVlPThoeldRRVZUMEw1cm41SXI3dTU3eHc9PSZ2YWxpZG1pbnV0ZXM9NDA=
+#EXTINF:0 tvg-id="ext" group-title="New Group",Doyel-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/doyeltv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Channel-H
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelhtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDIxIDQ6MTE6NTAgUE0maGFzaF92YWx1ZT11MTZXUjNacTFDM1NaaTFXV09pRzNnPT0mdmFsaWRtaW51dGVzPTQw
+#EXTINF:0 tvg-id="ext" group-title="New Group",Wnn-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/wnn24.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Voice-Tv
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Hernet-Tv
+https://server1.jadubd.com/hernettv/hernettv/chunklist_w604863394.m3u8?Live-TV™
+#EXTINF:0 tvg-id="ext" group-title="New Group",I-Tv
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Varendra TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDIxIDg6NTE6NTYgQU0maGFzaF92YWx1ZT1PZFR2OFVpTm4wVHlaeW9ZMFVjV1dRPT0mdmFsaWRtaW51dGVzPTQw
+#EXTINF:0 tvg-id="ext" group-title="New Group",S-Bangla Red
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelsbd.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Open-Tv
+https://tempd.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boulive.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",R-Tv Music
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Gaan-Bangla Tv
+http://103.205.133.19/hls/gaanbangla.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Atn-Music
+https://www.webtvbd.com/download/bdix/atn_music.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Atn-Islamic
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Aldawa-Tv
+https://aldawahtv.telelivebd.com/AldawahTV/AldawahTV_manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Iqra-Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjEgMTE6MjQ6MjkgQU0maGFzaF92YWx1ZT11blFtZU1rRWcrOEEvc1pWWlJ5SDlBPT0mdmFsaWRtaW51dGVzPTQw
+#EXTINF:0 tvg-id="ext" group-title="New Group",Peace-Tv
+http://103.205.133.21/hls/peacetv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",I TV Usa
+https://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Channel-S
+https://tempd.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Tv 1 Uk
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tvoneuksni.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjEgMToyOTozNiBQTSZoYXNoX3ZhbHVlPTBWbHAxM0JSRHZaWkdqQ2NTTHUzc0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+#EXTINF:0 tvg-id="ext" group-title="New Group",Time Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIxIDk6MjQ6NTkgUE0maGFzaF92YWx1ZT1jQ1N1aXp2eTVtdGJNcGlwdDV3RW13PT0mdmFsaWRtaW51dGVzPTQw
+#EXTINF:0 tvg-id="ext" group-title="New Group",Times 24 Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIxIDk6MjU6MjkgUE0maGFzaF92YWx1ZT11TDRGczhIZXNGZGdxRG9DQ2hwRWJ3PT0mdmFsaWRtaW51dGVzPTQw
+#EXTINF:0 tvg-id="ext" group-title="New Group",Deshi Tv
+http://72.139.72.18:1935/live/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",TBN 24
+https://dog.dg21bd.com/TBN242/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",News-24
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Indepedent-Tv
+https://bdsl.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Channel-24
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Jomuna-Tv
+http://103.205.133.19/hls/jamunatv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Agami-Tv
+http://str24.l9574.com/510.stream/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Magic Bangla
+http://103.108.145.94:1935/magicbangla/myStream/chunklist_w47264854.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Probasi Bangla
+http://master.beeiptv.com:8081/probashi/probashi_bangla/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",T-Sports
+http://209.126.120.153/hls/tsports.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Channel-T1
+http://128.199.212.160/channelt1/1080/index.m3u8?@amarnettv.live
+#EXTINF:0 tvg-id="ext" group-title="New Group",Channel-T1 Uk
+https://www.cdn.streamcast.xyz:19360/channeltt/channeltt.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Nobo DipTv
+http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",H-Tv
+https://htv-hls.telelivebd.com/htv/htv_manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Khusboo Bangla
+https://itvorigin.multitvsolution.com:443/idvo/khushboo_540p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Sony yay Bangla
+http://rv.therevenge.co:80/307211716271/307211716271/83698
+#EXTINF:0 tvg-id="ext" group-title="New Group",Abzy Movies
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Abzy Dhakad
+https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="New Group",Sony Max HD
+http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",SONY MAX 2 us
+http://208.115.215.42:80/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Sony Wah
+https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+#EXTINF:0 tvg-id="CinemaTV.in" group-title="New Group",CINEMA TV
+http://rv.therevenge.co:80/307211716271/307211716271/83616
+#EXTINF:0 tvg-id="ext" group-title="New Group",Enterr 10 Movies
+http://rv.therevenge.co:80/307211716271/307211716271/83664
+#EXTINF:0 tvg-id="ext" group-title="New Group",B4U Movie Uk
+http://103.205.133.19/hls/b4umovies.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",B4U Movie Us
+http://1skytv.com:8080/k3NT70ga3f/FLyvJR2Cad/1306
+#EXTINF:0 tvg-id="ext" group-title="New Group",B4u Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:0 tvg-id="B4UAflam.net" group-title="New Group",B4U Aflam
+http://1skytv.com:8080/k3NT70ga3f/FLyvJR2Cad/764
+#EXTINF:0 tvg-id="ext" group-title="New Group",& Pictures Hd
+http://103.205.133.21/hls/andpicture.m3u8
+#EXTINF:0 tvg-id="Pictures.in" group-title="New Group",& Pictures Sd
+http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",&Xplor Hd
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
+#EXTINF:0 tvg-id="ext" group-title="New Group",Colors Cineplex
+http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="RishteyCineplex.uk" group-title="New Group",Rishtey Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",MINI PLEX
+http://bazarhd.online:80/307210144741/307210144741/83651
+#EXTINF:0 tvg-id="ext" group-title="New Group",Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Box Cinema
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",B flix
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Utsav Gold
+http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",S Gold S
+http://87.117.234.107:1935//live//STARGOLDSELECTFHD//chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",STAR GOLD 2
+http://rv.therevenge.co:80/307211716271/307211716271/83542
+#EXTINF:0 tvg-id="ext" group-title="New Group",STAR UTSAV MOVIES
+http://rv.therevenge.co:80/307211716271/307211716271/83707
+#EXTINF:0 tvg-id="Zing.uk" group-title="New Group",Zing
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="New Group",Zee Action
+https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="New Group",Zee Cinema HD
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Zee  Cinema  Me
+http://cv.khushitv.xyz/channels.php?c=zeecinemame&e=.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="New Group",Zee Cinema  Usa
+http://cv.khushitv.xyz/channels.php?c=cinemausa&e=.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.uk" group-title="New Group",Zee Cinema  Uk
+http://cv.khushitv.xyz/channels.php?c=cinemauk&e=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Zee Cinema Ind
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeecinema&oauth=c3Q9MTYwNjcxOTEwMX5leHA9MTYwNjcyMDEwMX5hY2w9LypobWFjPTI0YjEyYzZkMmJiZGNjMTgyZTk3ZjZlN2VhOTlkMmJlNGZhYTUyNjE2NGUxODNiNzcyMGE4NDA1YzZlOWRmMTY=
+#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="New Group",Zee Bollywood
+https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+#EXTINF:0 tvg-id="ZeeClassic.in" group-title="New Group",Zee Classic
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-176
+#EXTINF:0 tvg-id="ext" group-title="New Group",Zee Anmol Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+#EXTINF:0 tvg-id="ZeeSmile.in" group-title="New Group",Zee Smile
+http://cv.khushitv.xyz/channels.php?c=smileusa&e=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Tehelka Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",BINDAS MOVIES
+http://rv.therevenge.co:80/307211716271/307211716271/83599
+#EXTINF:0 tvg-id="UTVAction.in" group-title="New Group",UTV Action
+http://rv.therevenge.co:80/307211716271/307211716271/83632
+#EXTINF:0 tvg-id="UTVMovies.us" group-title="New Group",UTV MOVIES
+http://rv.therevenge.co:80/307211716271/307211716271/83598
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="New Group",Mbc Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Pitaara Tv
+https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/chunklist_w322362321.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",WoW Ccinema
+http://103.205.133.19/hls/wowcinema.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",MOVIES ACTIVE CLASSIC
+http://rv.therevenge.co:80/307211716271/307211716271/83611
+#EXTINF:0 tvg-id="ext" group-title="New Group",MOVIES ACTIVE
+http://bazarhd.online:80/307210144741/307210144741/83650
+#EXTINF:0 tvg-id="ext" group-title="New Group",Tamil U Tv
+http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",8XM
+http://bazarhd.online:80/307210144741/307210144741/84023
+#EXTINF:0 tvg-id="9XM.in" group-title="New Group",9xm
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:0 tvg-id="9XJalwa.in" group-title="New Group",9X Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+#EXTINF:0 tvg-id="9XTashan.in" group-title="New Group",9x Tashan
+https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Dil Se
+https://live.hungama.com/linear/dil-se/playlist_360p/index.m3u8
+#EXTINF:0 tvg-id="Mastiii.in" group-title="New Group",Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Kadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:0 tvg-id="LoveTV.pl" group-title="New Group",Love Tv
+https://ilove.livebox.co.in/wowinhls/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Colosal Tv
+https://www.webtvbd.com/download/bdix/colosal_tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Pop Pataakha
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8?Live-TV
+#EXTINF:0 tvg-id="B4UMusic.uk" group-title="New Group",B4U Music
+http://103.205.133.19/hls/b4umusic.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",M Tv
+http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",M Tv Beats
+http://bazarhd.online:80/307210144741/307210144741/83649
+#EXTINF:0 tvg-id="ext" group-title="New Group",ZOOM TV HD
+http://rv.therevenge.co:80/307211716271/307211716271/83691
+#EXTINF:0 tvg-id="ext" group-title="New Group",Music Ind
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:0 tvg-id="VH1.us" group-title="New Group",VH1
+https://d3pu3hnym3eusd.cloudfront.net/VH1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Hollywood Movies
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
+#EXTINF:0 tvg-id="ext" group-title="New Group",Hollywood Movies 2
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",CCM
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Amedia Hit HBO
+http://oostv.site:8080/iptv/iptv/25
+#EXTINF:0 tvg-id="HBOEast.us" group-title="New Group",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
+#EXTINF:0 tvg-id="HBO2East.us" group-title="New Group",HBO 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=84797b799ae
+#EXTINF:0 tvg-id="HBOHits.in" group-title="New Group",HBO Hits
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="New Group",Rakuten Movies
+https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="SonyMovies.uk" group-title="New Group",Sony Movies
+http://51.52.156.22:8888/http/009
+#EXTINF:0 tvg-id="MBCMax.net" group-title="New Group",Mbc Max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:0 tvg-id="MBC2.net" group-title="New Group",MBC 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
+#EXTINF:0 tvg-id="MBCAction.net" group-title="New Group",MBC Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
+#EXTINF:0 tvg-id="ext" group-title="New Group",Action Hollywood Movies
+https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="New Group",Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="tv21" group-title="New Group",XXI
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/24503?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="New Group",Sony Pix
+http://rv.therevenge.co:80/307211716271/307211716271/83703
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="New Group",FOX Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="WOWTV.us" group-title="New Group",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Dubai One Channel
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Lotus Maccau
+http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Rasi Hollywood
+http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
+#EXTINF:0 tvg-id="MoviesNowHD.in" group-title="New Group",MOVIES NOW HD
+http://rv.therevenge.co:80/307211716271/307211716271/83604
+#EXTINF:0 tvg-id="ext" group-title="New Group",MNX HD
+http://rv.therevenge.co:80/307211716271/307211716271/83605
+#EXTINF:0 tvg-id="ext" group-title="New Group",Axn 1
+https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8?Live-TV%E2%84%A2
+#EXTINF:0 tvg-id="ext" group-title="New Group",Axn 2
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/57516?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="New Group",Cinema World
+http://45.126.83.51/uq2663/h/h04/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Star Movies Select
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+#EXTINF:0 tvg-id="ViasatFilmAction.se" group-title="New Group",Viasat Film Action
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7565?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="New Group",And Prive
+http://cv.khushitv.xyz/channels.php?c=andprivehd/tracks-v4a1&e=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",PARAMOUNT TV
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",WarnerTV
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",WarnerTV 2
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+#EXTINF:0 tvg-id="CinemaxEast.us" group-title="New Group",Cinemax
+http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8?@ShamimHossainOfficial
+#EXTINF:0 tvg-id="ext" group-title="New Group",RunTime Free Movies
+https://ammoruntime-plex.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="New Group",BOSS MOVIES 1
+http://renginboxfr.ddns.net:25461/Sineee/ewrere/194?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="New Group",BOSS MOVIES  2
+http://renginboxfr.ddns.net:25461/Sineee/ewrere/195?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MoviemaxAction2.tr" group-title="New Group",BEIN MOVIES ACTION 2
+http://bazarhd.online:80/2993289990/5002883998/80538?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="New Group",Multivishon
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Sky Net 1
+https://cmt.mb13.cyou/uni/livedo/skynetsports1.m3u8
+#EXTINF:0 tvg-id="StarSports1.in" group-title="New Group",Star Sports 1
+http://securepoint.io:83/live/promo/promo/355934.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-id="StarSports2.in" group-title="New Group",Star Sports 2
+http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Star Sports S 1
+http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist_w1760519830.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Star Sports S 2
+http://221.120.204.4/STAR-SPORTS-SELECT-2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="New Group",Bt Sports 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="New Group",Bt Sports 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="New Group",Bt Sports 3
+http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Ptv Sports
+http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Geo Super
+http://42.201.228.226:8678/GEOSUPER_EBRAVO_TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Maq Tv
+http://str24.l9574.com/517.stream/index.m3u8
+#EXTINF:0 tvg-id="TenSports.in" group-title="New Group",Ten Sports
+http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="TenSports.in" group-title="New Group",Sony Ten 1
+http://103.205.133.19/hls/ten1.m3u8
+#EXTINF:0 tvg-id="TenAction.in" group-title="New Group",Sony Ten 2
+http://103.205.133.19/hls/ten2.m3u8
+#EXTINF:0 tvg-id="TenCricket.in" group-title="New Group",Sony Ten 3
+http://103.205.133.19/hls/ten3.m3u8
+#EXTINF:0 tvg-id="SonySix.in" group-title="New Group",Sony Six
+http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="New Group",Fox Sport 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="New Group",Fox Sport 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="New Group",Fox Sports 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Astro SuperSport
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",ZQ Tv
+http://iptv.zqstream.com/zqsport-gen/video.m3u8
+#EXTINF:0 tvg-id="sport1-lt" group-title="New Group",SPORT TV
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="New Group",SPORT TV 4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Premier 1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Champions TV 1
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="New Group",beIN SPORTS 1
+http://oostv.site:8080/iptv/iptv/4
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="New Group",beIN SPORTS 2
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1737?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="New Group",beIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=false&paln=&includeExtendedEvents=false&architecture=&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&appName=web
+#EXTINF:0 tvg-id="ext" group-title="New Group",Discovery Bangla
+http://starshare.live:8080/live/738323/277337/406.ts
+#EXTINF:0 tvg-id="ext" group-title="New Group",Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="Discovery.us" group-title="New Group",Discovery
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Discovery Hindi
+https://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Tlc Hindi
+https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
+#EXTINF:0 tvg-id="TLC.us" group-title="New Group",TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8?@ShamimHossainOfficial
+#EXTINF:0 tvg-id="ext" group-title="New Group",BBc Eaeth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="New Group",BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",N G Channel
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="natgeowild" group-title="New Group",Natgeo Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="New Group",DMAX
+http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Afn Tv
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Zee Zest
+http://cv.khushitv.xyz/channels.php?c=zzesthd&e=.m3u8
+#EXTINF:0 tvg-id="FoodNetwork.us" group-title="New Group",Food NetWork
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/24949?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FOXLife.us" group-title="New Group",Fox Life HD
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="LoveNature.eu" group-title="New Group",Love Nature
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="DIGIAnimalWorld.ro" group-title="New Group",DIGI Animal World
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/72656?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FoodFood.in" group-title="New Group",FOOD FOOD
+http://rv.therevenge.co:80/307211716271/307211716271/83559
+#EXTINF:0 tvg-id="ext" group-title="New Group",Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.us" group-title="New Group",Animal Planet
+https://itvorigin.multitvsolution.com/idvo/aphdhindi_360p/index.m3u8
+#EXTINF:0 tvg-id="RTDocumentary.pl" group-title="New Group",Rt Documentary
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjEgMToyNjo0NCBQTSZoYXNoX3ZhbHVlPUk3L3lCYWRJMXBnTEx6MjNETi9IM0E9PSZ2YWxpZG1pbnV0ZXM9NDA=
+#EXTINF:0 tvg-id="TravelXP.eu" group-title="New Group",Travel Xp
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#EXTINF:0 tvg-id="HUMMasala.uk" group-title="New Group",HUM Masala
+http://starshare.live:8080/live/738323/277337/1919.ts
+#EXTINF:0 tvg-id="ext" group-title="New Group",Red Bull Tv
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",Smithsonian Tv
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6550_720p/index.m3u8
+#EXTINF:0 tvg-id="AdventureTV.cz" group-title="New Group",Adventure Tv
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:0 tvg-id="NationalGeographic.us" group-title="New Group",NATIONAL GEOGRAPHIC
+http://oostv.site:8080/iptv/iptv/22
+#EXTINF:0 tvg-id="ext" group-title="New Group",Broad Cast Tv
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/high/c.m3u8
+#EXTINF:0 tvg-id="WWE.ca" group-title="New Group",WWE
+https://stadium-ringofhonor-1.plex.wurl.com/manifest/playlist.m3u8
